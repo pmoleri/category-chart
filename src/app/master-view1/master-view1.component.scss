@@ -1,0 +1,13 @@
+:host {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.category-chart {
+  width: 908px;
+  min-width: 300px;
+  min-height: 400px;
+}
